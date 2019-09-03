@@ -1,1 +1,7 @@
 How to setup Intellij with Gradle
+
+2 ways to sync with remote git repos.
+
+1. Fetch
+This optin is safe this it fetch the changes into the local branch only.
+2. Pull
